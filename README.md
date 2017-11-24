@@ -26,4 +26,4 @@ You can find detailed solution in `Iris-Keras.ipynb` which is [Jupyter notebook]
 
 ## Troubleshooting
 
-Due to numerous Python libraries used like [numpy](), [pandas](), [keras]() and [Tensorflow](), you may encounter dependancy problems. If you do, try to recreate my working enviroment by running `pip3 install -r requirements.txt`.
+Due to numerous Python libraries used like [numpy](http://www.numpy.org/), [pandas](http://pandas.pydata.org/), [keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/), you may encounter dependancy problems. If you do, try to recreate my working enviroment by running `pip3 install -r requirements.txt`.
