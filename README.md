@@ -22,3 +22,8 @@ Use the testing set to train your model.
 Use the testing set to test your model, clearly calculating and displaying the error rate.
 
 # Solution
+You can find detailed solution in `Iris-Keras.ipynb` which is [Jupyter notebook](https://jupyter.org/) file.
+
+## Troubleshooting
+
+Due to numerous Python libraries used like [numpy](), [pandas](), [keras]() and [Tensorflow](), you may encounter dependancy problems. If you do, try to recreate my working enviroment by running `pip3 install -r requirements.txt`.
